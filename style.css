@@ -1,0 +1,37 @@
+body{
+   background-image:url(joshua-sortino-LqKhnDzSF-8-unsplash.jpg);
+   background-size: 100vw 100vh;
+}
+
+.container {
+    margin:0px auto;
+    margin-top:15%;
+}
+
+.card-header{
+    background-color: rgba(122, 192, 238, 0.733);
+}
+
+.card-body {
+    color: rgb(0, 0, 0);
+}
+
+.card-footer {
+    background-color: rgba(122, 192, 238, 0.733);
+}
+
+#generation {
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: rgb(58, 235, 35);
+    border:none;
+    border-radius:10px;
+}
+
+#clear {
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: rgb(201, 9, 9);
+    border:none;
+    border-radius:10px;
+}
